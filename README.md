@@ -184,7 +184,6 @@ The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connecte
 
 .
 
-
 .
 
 
